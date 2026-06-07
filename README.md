@@ -1,8 +1,13 @@
 # COVID19-XRay-Detection-CNN
 
 # COVID-19 Detection from Chest X-Ray Images using CNN and Transfer Learning
-## Live Demo
 
+## Application Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home_page.png)
+## Live Demo
 ### Streamlit Application:
 https://covid19-xray-detection-cnn-coukabrlrqeknojrg3racn.streamlit.app/
 ### Streamlit Profile 
