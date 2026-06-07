@@ -1,0 +1,12 @@
+streamlit
+tensorflow==2.16.1
+keras==3.3.3
+numpy==1.26.4
+pandas
+matplotlib
+seaborn
+pillow
+gdown
+requests
+h5py
+opencv-python-headless
